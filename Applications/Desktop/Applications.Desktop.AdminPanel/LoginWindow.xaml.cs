@@ -37,6 +37,7 @@ namespace Applications.Desktop.AdminPanel
                 MessageBox.Show("Нет", startButton.Content.ToString());
             }
 
+            
             //Ctrl + K, Ctrl + D - выравнивание кода по стилю 
             //Ctrl + R, Ctrl + G - удаление неактивных и упорядочивание using
 
