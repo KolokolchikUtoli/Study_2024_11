@@ -41,7 +41,7 @@ namespace Applications.Desktop.AdminPanel
             //Ctrl + K, Ctrl + D - выравнивание кода по стилю 
             //Ctrl + R, Ctrl + G - удаление неактивных и упорядочивание using
 
-            //test
+            //test comment
         }
     }
 }
